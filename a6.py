@@ -1,3 +1,4 @@
+
 while True:
     try:
         num = int(input("Digite um número positivo inteiro: "))
